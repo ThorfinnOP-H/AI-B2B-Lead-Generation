@@ -38,4 +38,3 @@ An automated workflow architecture designed to eliminate the manual bottleneck i
 * **Agency Outreach:** Automating client acquisition by targeting specific niches with tailored value propositions.
 * **B2B SaaS Sales:** Scaling outbound SDR efforts without expanding the human sales team.
 * **Partnership Discovery:** Finding and contacting niche distributors or global enterprise partners.
-*
